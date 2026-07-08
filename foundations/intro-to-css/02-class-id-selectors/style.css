@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.class1 {
+    background-color: #FC9797;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id2 {
+    color: #064ebf;
+    font-size: 36px;
+}
+
+.class3 {
+    font-size: 24px;
+}
+
+#id4 {
+    background-color: #61F707;
+    font-weight: bold;
+}
