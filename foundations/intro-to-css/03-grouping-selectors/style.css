@@ -1,6 +1,7 @@
-.for_both {
+.class1,
+.class2 {
     font-size: 28px;
-    font-style: Helvetica, "Times New Roman", sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 .class1 {
