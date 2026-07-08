@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.for_both {
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", sans-serif;
+}
+
+.class1 {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 0%);
+}
+
+.class2 {
+    background-color: rgb(255, 255, 0);
+}
